@@ -12,43 +12,43 @@
 
 ## 2. 기능명세서
    
-![alt text](image.png)
+<img src="./img/image.png" alt="" >
 
 ## 3. API 명세서
    
-![alt text](image-5.png)
+<img src="./img/image-5.png" alt="" >
 
 ## 4. Info Architecture
-   
-![alt text](image-1.png)
+
+<img src="./img/image-1.png" alt="" >
 
 ## 5. ERD
    
-![alt text](image-6.png)
+<img src="./img/image-6.png" alt="" >
 
 ## 5. 와이어프레임   
    
-![alt text](image-4.png)
+<img src="./img/image-4.png" alt="" >
 
 ## 6. 페이지 별 기능 설명
   1. 메인페이지
   - 홈페이지에 각 테마별로 기능들에 접근할 수 있도록 테마를 꾸몄습니다.
   - 회원가입 및 로그인, 상품 조회, 환전 조회, 커뮤니티, 지도 검색   
      
-  ![alt text](image-8.png)
+  <img src="./img/image-8.png" alt="" >
 
   2. 회원가입 및 로그인 페이지
   - 회원가입과 로그인 시 틀린 정보가 기입될 시 오류 메세지를 띄울 수 있도록 기능 구현하였습니다.   
      
-  ![alt text](image-9.png)
-  ![alt text](image-10.png)
+  <img src="./img/image-9.png" alt="" >
+  <img src="./img/image-10.png" alt="" >
    
   3. 프로필 페이지
   - 프로필 화면은 연봉을 기입 시 상품 추천 알고리즘을 이용할 수 있도록 구현하였습니다.
   - 토글 버튼을 클릭하면 내가 좋아요한 게시글을 띄우고 클릭 시 바로 이동할 수 있도록 구현하였습니다.
      
-  ![alt text](image-11.png)
-  ![alt text](image-12.png)
+  <img src="./img/image-11.png" alt="" >
+  <img src="./img/image-12.png" alt="" >
    
   4. 상품조회 페이지
   - 상품 조회 페이지는 금융회사 정보, 정기예금 정보, 상품 비교를 확인할 수 있도록 구현하였습니다.
@@ -56,35 +56,34 @@
   - 정기예금 정보는 전체 상품들에 대한 정보와 상품 선택 시 상품 가입을 할 수 있는 디테일 페이지를 구현하였습니다.
   - 상품 비교 페이지는 최대 4개까지 상품을 비교하여 각 상품별로 차이점을 알 수 있도록 모달창으로 기능 구현하였습니다.   
    
-  ![alt text](image-13.png)
-  ![alt text](image-14.png)
-  ![alt text](image-17.png)
-  ![alt text](image-15.png)
-  ![alt text](image-16.png)
+   <img src="./img/image-13.png" alt="" >
+   <img src="./img/image-14.png" alt="" >
+   <img src="./img/image-15.png" alt="" >
+   <img src="./img/image-16.png" alt="" >
       
   5. 상품 추천 알고리즘
   - 각 상품에 대한 가중치를 계산한 후 추천 받을 금융 상품에 대한 목록을 산출하여 유저에게 제공하는 기능을 구현하였습니다.
   - 세부 내용은 7번 알고리즘 기술설명에 기재
      
-  ![alt text](image-18.png)
+  <img src="./img/image-18.png" alt="" >
 
   6. 환율 계산기
   - 각 통화에 맞게 환전 계산기를 구현하였습니다.
   - 총 23개 국가에 대한 환율 변환이 가능하며 우측은 원화를 기준으로 데이터를 산출하는 그래프를 구현하였습니다.
      
-  ![alt text](image-19.png)
+  <img src="./img/image-19.png" alt="" >
 
   7. 커뮤니티 페이지
   - 커뮤니티 페이지는 최신순, 트렌드순(좋아요), 내가 쓴글 기준으로 정렬할 수 있도록 구현하였습니다.
   - 각 게시글 디테일은 댓글 기능, 좋아요 기능을 구현하였습니다.
      
-  ![alt text](image-20.png)
-  ![alt text](image-21.png)
+  <img src="./img/image-20.png" alt="" >
+  <img src="./img/image-21.png" alt="" >
 
   8. 지도 검색
   - 지도 검색 페이지는 우리 은행, 신한 은행, 하나 은행 중 하나를 선택 후 지역명을 작성 시 해당 지역의 선택한 은행이 나타나도록 기능 구현하였습니다.
      
-  ![alt text](image-22.png)
+  <img src="./img/image-22.png" alt="" >
 
 
 
@@ -106,7 +105,7 @@
 
 
 ## 8. Project Gantt Chart
-![alt text](image-7.png)
+<img src="./img/image-7.png" alt="" >
 
 
 ## 9. 느낀점 후기
